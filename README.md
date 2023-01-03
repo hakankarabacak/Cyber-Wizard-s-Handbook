@@ -1,8 +1,7 @@
 <h1 align="center">NOTES</h1>
 
 ### This page hosts a resources like tools, tweets, links etc.
-
-==========================================
+==============================================================
 
 #### Table of contents:
 [Reminders](#remIndex)<br/>
