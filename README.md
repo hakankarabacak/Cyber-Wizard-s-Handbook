@@ -3,7 +3,7 @@
 
 
 #### Table of contents:
-[Tools](#toolsIndex)<br/>
+[Tools](Tools)<br/>
 [Tweets](#twIndex)<br/>
 [Courses/Guides](#coIndex)<br/>
 [Polygon](#poIndex)<br/>
@@ -14,7 +14,7 @@
 
 
 
-<a name="toolsIndex"></a>
+
 
 Tools
 -----
