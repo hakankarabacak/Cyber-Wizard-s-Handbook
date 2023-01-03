@@ -9,6 +9,8 @@
     - [Phishing](#Phishing)
     - [XSS](#XSS)
     - [Twitter Tools](#Twitter-Tools)
+    - [Generators](#Generators)
+    - [Web-based Tools](#Web-based-Tools)
 
 - [Tweets](#Tweets)<br/>
 - [Courses and Guides](#Courses-and-Guides)<br/>
@@ -49,7 +51,7 @@ Tools
 - [Hash Generator](https://github.com/hakankarabacak/hashgen)
 - [QR Encoding/Decoding](https://github.com/hakankarabacak/QR)
 
-###### Web Tools<br/>
+###### Web-based Tools<br/>
 - [IntelTechniques](https://inteltechniques.com/index.html)
 - [Corrupt file](https://corrupt-a-file.net/)
 - [ToS Didn't Read](https://tosdr.org/)
