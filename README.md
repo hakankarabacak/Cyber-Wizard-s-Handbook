@@ -15,16 +15,16 @@ Tools
 -----
 <a name="toolsIndex"></a>
 
-Automated Scan<br/>
+###### Automated Scan<br/>
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon)<br/>
 
-MFA, 2FA etc. bypass<br/>
+###### MFA, 2FA etc. bypass<br/>
 - [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html)<br/>
 
-Phishing<br/>
+###### Phishing<br/>
 - [MaxPhisher](https://github.com/KasRoudra/MaxPhisher)<br/>
 
-XSS<br/>
+###### XSS<br/>
 - [XSStrike](https://github.com/s0md3v/XSStrike)<br/>
 
 Tweets
