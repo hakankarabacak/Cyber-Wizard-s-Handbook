@@ -9,11 +9,12 @@
 [Courses/Guides](#coIndex)<br/>
 [Polygon](#poIndex)<br/>
 [Reminders](#remIndex)
-===
+---
 
 
-Tools <a name="toolsIndex"></a>
+Tools
 -----
+<a name="toolsIndex"></a>
 
 ###### Automated Scan<br/>
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon)<br/>
@@ -30,6 +31,7 @@ Tools <a name="toolsIndex"></a>
 Tweets
 ------
 <a name="twIndex"></a>
+
 [VirusTotal possible virus flag bypass](https://twitter.com/Alh4zr3d/status/1610291517792321536)
 
 Courses/Guides
