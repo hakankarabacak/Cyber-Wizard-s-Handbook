@@ -4,7 +4,7 @@
 
 #### Table of contents:
 - [Tools](#Tools)<br/>
-    - [Automated Scan](#Automated-Scan)
+    - [Recon](#Recon)
     - [Authentication Bypass](#Authentication-Bypass)
     - [Phishing](#Phishing)
     - [XSS](#XSS)
@@ -19,7 +19,7 @@
 
 ---
 
-#### This repository contains all of the resources, reminders, guidelines, tools that I use in my daily life and in my career. Sometimes, I like things and add them here. I believe that this repository reflects my career path because it shows what I have learned and how I improved. Thus, someday when I publish this, it can be a good resource for newbies who want to improve in this field. But the repository is private until that day. Have fun!
+> This repository contains all of the resources, reminders, guidelines, tools that I use in my daily life and in my career. Sometimes, I like things and add them here. I believe that this repository reflects my career path because it shows what I have learned and how I improved. Thus, someday when I publish this, it can be a good resource for newbies who want to improve in this field. But the repository is private until that day. Have fun!
 
 
 
@@ -28,7 +28,7 @@
 Tools
 -----
 
-###### Automated Scan<br/>
+###### Recon<br/>
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon)<br/>
 
 ###### Authentication Bypass<br/>
