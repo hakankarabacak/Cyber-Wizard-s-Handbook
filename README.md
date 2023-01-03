@@ -2,8 +2,8 @@
 
 ### This page hosts a resources like tools, tweets, links etc.
 
-[Reminders](#remIndex) \n
-[Tools](#toolsIndex) \n
+[Reminders](#remIndex) <br />
+[Tools](#toolsIndex) <br />
 [Tweets](#twIndex)
 
 <a name="toolsIndex"></a>
