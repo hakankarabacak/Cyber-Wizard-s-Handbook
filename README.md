@@ -32,8 +32,7 @@ Tools
 
 
 
-Tweets
-------
+
 <a name="twIndex"></a>
 
 Tweets
@@ -41,21 +40,30 @@ Tweets
 
 [VirusTotal possible virus flag bypass](https://twitter.com/Alh4zr3d/status/1610291517792321536)
 
-Courses/Guides
---------------
+
+
 <a name="coIndex"></a>
 
+Courses/Guides
+--------------
+
 -----------------SPACEHOLDER-----------------
+
+
+
+<a name="poIndex"></a>
 
 Polygon
 -------
-<a name="poIndex"></a>
 
 -----------------SPACEHOLDER-----------------
 
+
+
+<a name="remIndex"></a>
+
 Reminders
 ---------
-<a name="remIndex"></a>
 
 -----------------SPACEHOLDER-----------------
 
