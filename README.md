@@ -16,6 +16,9 @@ Tools
 -----
 <a name="toolsIndex"></a>
 
+Tools
+-----
+
 ###### Automated Scan<br/>
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon)<br/>
 
