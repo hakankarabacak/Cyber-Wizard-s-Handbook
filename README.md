@@ -13,10 +13,10 @@ Tools
 -----
 <a name="toolsIndex"></a>
 MFA, 2FA etc. bypass<br/>
-..*[Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html)<br/>
+*[Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html)<br/>
 
 Phishing<br/>
-..*[PyPhisher](https://github.com/KasRoudra/pyphisher)<br/>
+*[PyPhisher](https://github.com/KasRoudra/pyphisher)<br/>
 
 Tweets
 ------
