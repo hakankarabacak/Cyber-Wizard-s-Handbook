@@ -4,7 +4,7 @@
 
 #### Table of contents:
 - [Tools](#Tools)<br/>
-    -[Automated Scan](#Automated-Scan)
+    - [Automated Scan](#Automated-Scan)
 [Tweets](#Tweets)<br/>
 [Courses and Guides](#Courses-and-Guides)<br/>
 [Polygon](#Polygon)<br/>
