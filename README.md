@@ -1,6 +1,5 @@
 <h1 align="center">NOTES</h1>
 
-### This page hosts resources such as tools, tweets, links, etc.
 
 
 #### Table of contents:
@@ -10,6 +9,8 @@
 [Polygon](#poIndex)<br/>
 [Reminders](#remIndex)
 ---
+
+### This repository contains all of the resources, reminders, tools that I use in my daily life and in my career. Sometimes, I like things and add them to this repository. 
 
 
 
