@@ -10,7 +10,6 @@
 [Polygon](#poIndex)<br/>
 [Reminders](#remIndex)
 -----
-
 <a name="toolsIndex"></a>
 Tools
 -----
