@@ -38,7 +38,7 @@ Tools
 Tweets
 ------
 
-[VirusTotal possible virus flag bypass](https://twitter.com/Alh4zr3d/status/1610291517792321536)
+- [VirusTotal possible virus flag bypass](https://twitter.com/Alh4zr3d/status/1610291517792321536)
 
 
 
@@ -47,7 +47,10 @@ Tweets
 Courses/Guides
 --------------
 
------------------SPACEHOLDER-----------------
+- [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
+- [Red Team Guide](https://redteam.guide/)
+- [University of Maryland Cryptography](https://www.coursera.org/learn/cryptography/home/week/1)
+- [OFFENSIVE SECURITY & REVERSE ENGINEERING & OFFENSIVE SOFTWARE EXPLOITATION](https://exploitation.ashemery.com/)
 
 
 
@@ -56,7 +59,7 @@ Courses/Guides
 Polygon
 -------
 
------------------SPACEHOLDER-----------------
+- [XSS Firing Range](https://public-firing-range.appspot.com/)
 
 
 
