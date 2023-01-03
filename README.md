@@ -2,6 +2,7 @@
 
 ### This page hosts a resources like tools, tweets, links etc.
 
+#### Table of contents:
 [Reminders](#remIndex)<br/>
 [Tools](#toolsIndex)<br/>
 [Tweets](#twIndex)
