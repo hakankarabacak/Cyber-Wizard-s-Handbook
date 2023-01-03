@@ -2,7 +2,10 @@
 
 ### This page hosts a resources like tools, tweets, links etc.
 
-[tools](#toolsIndex)
+[Reminders](#remIndex)
+[Tools](#toolsIndex)
+[Tweets](#twIndex)
 
 <a name="toolsIndex"></a>
 [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html)
+
