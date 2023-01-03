@@ -36,6 +36,11 @@ Tools
 - [Treeverse](https://treeverse.app/)<br/>
 - [#onemilliontweetmap](https://onemilliontweetmap.com/?center=41.08530320586984,28.85044097900391&zoom=11&search=beykent&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)<br/>
 
+###### Generators<br/>
+- [Password Generator](https://github.com/hakankarabacak/passgen)
+- [Hash Generator](https://github.com/hakankarabacak/hashgen)
+- [QR Encoding/Decoding](https://github.com/hakankarabacak/QR)
+
 ###### Web Tools<br/>
 - [IntelTechniques](https://inteltechniques.com/index.html)
 - [Corrupt file](https://corrupt-a-file.net/)
