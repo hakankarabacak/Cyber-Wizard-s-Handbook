@@ -5,6 +5,10 @@
 #### Table of contents:
 - [Tools](#Tools)<br/>
     - [Automated Scan](#Automated-Scan)
+    - [Authentication Bypass](#Authentication-Bypass)
+    - [Phishing](#Phishing)
+    - [XSS](#XSS)
+    - [Twitter Tools](#Twitter-Tools)
 
 - [Tweets](#Tweets)<br/>
 - [Courses and Guides](#Courses-and-Guides)<br/>
@@ -25,7 +29,7 @@ Tools
 ###### Automated Scan<br/>
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon)<br/>
 
-###### MFA, 2FA bypass etc.<br/>
+###### Authentication Bypass<br/>
 - [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html)<br/>
 
 ###### Phishing<br/>
