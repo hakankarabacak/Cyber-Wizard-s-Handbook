@@ -1,6 +1,6 @@
 <h1 align="center">AWESOME NOTES</h1>
 
-#### This repository contains all of the resources, reminders, guidelines, tools that I use in my daily life and in my career. Sometimes, I like things and add them here. I believe that this repository reflects my career path because it shows what I have learned and how I improved. Thus, someday when I publish this, it can be a good resource for newbies who want to improve in this field. But the repository is private until that day. Have fun!
+#### This repository contains all of the resources, guidelines, tools that I use in my daily life and in my career. Sometimes, I like things and add them here. I believe that this repository reflects my career path because it shows what I have learned and how I improved. Thus, someday when I publish this, it can be a good resource for newbies who want to improve in this field. But the repository is private until that day. Have fun!
 
 ---
 
@@ -18,7 +18,6 @@
 - [Tweets](#Tweets)
 - [Courses and Guides](#Courses-and-Guides)
 - [Polygon](#Polygon)
-- [Reminders](#Reminders)
 
 ---
 
@@ -26,10 +25,10 @@ Tools
 -----
 
 ###### Recon
-- [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+- [AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 
 ###### Authentication Bypass
-- [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html)
+- [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html) - man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
 
 ###### Phishing
 - [MaxPhisher](https://github.com/KasRoudra/MaxPhisher)
@@ -61,8 +60,8 @@ Tools
 ###### OSINT
 - [Shodan](https://www.shodan.io/) - Shodan is search engine for Internet-connected devices.
 - [Maltego](https://www.maltego.com/) - Quickly pull data from profiles, posts, and comments into one graph, where we can conduct text searches and see connections.
-- [Recon-ng]()
-- [Wayback Machine]()
+- [Recon-ng](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python.
+- [Wayback Machine](https://archive.org/web) - The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites.
 
 
 
@@ -101,9 +100,10 @@ Polygon
 
 
 
-Reminders
----------
+-----------------SPACEHOLDER-----------------
 
 -----------------SPACEHOLDER-----------------
 
+-----------------SPACEHOLDER-----------------
 
+-----------------SPACEHOLDER-----------------
