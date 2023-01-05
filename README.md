@@ -82,6 +82,7 @@ Tweets
 - [This OSINT page full of resources](https://twitter.com/startme/status/1563225274673942532)
 - [hashquine!](https://twitter.com/David3141593/status/1573218394358386688)
 - [temp VPS/SSH services](https://twitter.com/mertcangokgoz/status/1584450382612176896)
+- [SpoolSploit - Auto Exploit Windows](https://twitter.com/0dayCTF/status/1610379627725262850)
 
 
 
