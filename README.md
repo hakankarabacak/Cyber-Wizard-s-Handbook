@@ -12,7 +12,8 @@
     - [XSS](#XSS)
     - [Twitter Tools](#Twitter-Tools)
     - [Generators](#Generators)
-    - [Web-based Tools](#Web-based-Tools)
+    - [Web-based](#Web-based)
+    - [OSINT](#OSINT)
 
 - [Tweets](#Tweets)
 - [Courses and Guides](#Courses-and-Guides)
@@ -47,7 +48,7 @@ Tools
 - [hashgen](https://github.com/hakankarabacak/hashgen)
 - [QR Encoding/Decoding](https://github.com/hakankarabacak/QR)
 
-###### Web-based Tools
+###### Web-based
 - [IntelTechniques](https://inteltechniques.com/index.html)
 - [Corrupt file](https://corrupt-a-file.net/)
 - [ToS Didn't Read](https://tosdr.org/)
@@ -56,6 +57,12 @@ Tools
 - [termbin](https://termbin.com/)
 - [Undesign](https://undesign.learn.uno/remove-background/)
 - [GTFOBins](https://gtfobins.github.io/)
+
+###### OSINT
+- [Shodan](https://www.shodan.io/) - Shodan is search engine for Internet-connected devices.
+- [Maltego](https://www.maltego.com/) - Quickly pull data from profiles, posts, and comments into one graph, where we can conduct text searches and see connections.
+- [Recon-ng]()
+- [Wayback Machine]()
 
 
 
