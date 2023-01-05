@@ -26,15 +26,17 @@ Tools
 
 ###### Recon
 - [AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
+- [Burp Suite](https://portswigger.net/burp) - Burp Suite is an integrated platform and graphical tool for performing security testing of web applications.
+- [Subfinder](https://github.com/projectdiscovery/subfinder) - subfinder is a subdomain discovery tool that returns valid subdomains for websites.
 
 ###### Authentication Bypass
-- [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html) - man-in-the-middle attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
+- [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html) - MITM attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
 
 ###### Phishing
-- [MaxPhisher](https://github.com/KasRoudra/MaxPhisher)
+- [MaxPhisher](https://github.com/KasRoudra/MaxPhisher) - A python phishing script for login phishing, image phishing, video phishing and many more.
 
 ###### XSS
-- [XSStrike](https://github.com/s0md3v/XSStrike)
+- [XSStrike](https://github.com/s0md3v/XSStrike) - XSStrike is a Cross Site Scripting detection suite
 
 ###### Twitter Tools
 - [tinfoleak](https://tinfoleak.com/#page-top)
@@ -43,8 +45,8 @@ Tools
 - [#onemilliontweetmap](https://onemilliontweetmap.com/?center=41.08530320586984,28.85044097900391&zoom=11&search=beykent&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)
 
 ###### Generators
-- [passgen](https://github.com/hakankarabacak/passgen)
-- [hashgen](https://github.com/hakankarabacak/hashgen)
+- [passgen](https://github.com/hakankarabacak/passgen) - Simply password generator for social medias or related things written by me.
+- [hashgen](https://github.com/hakankarabacak/hashgen) - Simply hash generator for encrypting data written by me.
 - [QR Encoding/Decoding](https://github.com/hakankarabacak/QR)
 
 ###### Web-based
@@ -55,6 +57,7 @@ Tools
 - [Simple Login](https://simplelogin.io/)
 - [termbin](https://termbin.com/)
 - [Undesign](https://undesign.learn.uno/remove-background/)
+- [Watermark Remover](https://www.watermarkremover.io/)
 - [GTFOBins](https://gtfobins.github.io/)
 
 ###### OSINT
@@ -74,7 +77,11 @@ Tweets
 ------
 
 - [VirusTotal possible virus flag bypass](https://twitter.com/Alh4zr3d/status/1610291517792321536)
-
+- [Cyber Security Certifications](https://twitter.com/LetsDefendIO/status/1511728038865772544)
+- [Easy way to get good vulns with shodan search](https://twitter.com/atomiczsec/status/1560104164641935360)
+- [This OSINT page full of resources](https://twitter.com/startme/status/1563225274673942532)
+- [hashquine!](https://twitter.com/David3141593/status/1573218394358386688)
+- [temp VPS/SSH services](https://twitter.com/mertcangokgoz/status/1584450382612176896)
 
 
 
@@ -86,6 +93,7 @@ Courses and Guides
 - [Red Team Guide](https://redteam.guide/)
 - [University of Maryland Cryptography](https://www.coursera.org/learn/cryptography/home/week/1)
 - [OFFENSIVE SECURITY & REVERSE ENGINEERING & OFFENSIVE SOFTWARE EXPLOITATION](https://exploitation.ashemery.com/)
+- [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 
 
 
@@ -94,7 +102,7 @@ Courses and Guides
 Polygon
 -------
 
-- [XSS Firing Range](https://public-firing-range.appspot.com/)
+- [XSS Firing Range](https://public-firing-range.appspot.com/) - Firing Range is a test bed for automated web application security scanners.
 
 
 
