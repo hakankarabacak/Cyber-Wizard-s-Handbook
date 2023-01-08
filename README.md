@@ -84,6 +84,7 @@ Tweets
 - [temp VPS/SSH services](https://twitter.com/mertcangokgoz/status/1584450382612176896)
 - [SpoolSploit - Auto Exploit Windows](https://twitter.com/0dayCTF/status/1610379627725262850)
 - [Found PHPinfo page?](https://twitter.com/therceman/status/1611663113807355908)
+- [xss using css](https://twitter.com/spyerror/status/1156698710128115713)
 
 
 
