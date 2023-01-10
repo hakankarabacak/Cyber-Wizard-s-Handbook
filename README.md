@@ -86,6 +86,7 @@ Tweets
 - [Found PHPinfo page?](https://twitter.com/therceman/status/1611663113807355908)
 - [xss using css](https://twitter.com/spyerror/status/1156698710128115713)
 - [How to learn reverse engineering fast](https://twitter.com/CristiVlad25/status/1612467610003685377)
+- [XSS: Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization](https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/)
 
 
 
