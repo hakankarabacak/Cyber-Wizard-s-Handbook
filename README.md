@@ -98,7 +98,7 @@ Courses and Guides
 
 - [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [Red Team Guide](https://redteam.guide/)
-- [University of Maryland Cryptography](https://www.coursera.org/learn/cryptography/home/week/1)
+- [University of Maryland Cryptography Course](https://www.coursera.org/learn/cryptography/home/week/1)
 - [OFFENSIVE SECURITY & REVERSE ENGINEERING & OFFENSIVE SOFTWARE EXPLOITATION](https://exploitation.ashemery.com/)
 - [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [XSS: Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization](https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/)
@@ -111,18 +111,12 @@ Polygon
 -------
 
 - [XSS Firing Range](https://public-firing-range.appspot.com/) - Firing Range is a test bed for automated web application security scanners.
+- [PortSwigger Labs](https://portswigger.net/web-security/all-labs) - Featuring over 190 topics and interactive labs that cover even the latest vulnerabilities.
+- [TryHackMe](https://tryhackme.com/) - TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
+- [Hack The Box](https://www.hackthebox.com/) - TryHackMe alternative.
 
 
 
-
-
------------------SPACEHOLDER-----------------
-
------------------SPACEHOLDER-----------------
-
------------------SPACEHOLDER-----------------
-
------------------SPACEHOLDER-----------------
 
 
 
