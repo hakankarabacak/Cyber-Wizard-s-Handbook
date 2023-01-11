@@ -1,6 +1,6 @@
 <h1 align="center">AWESOME NOTES</h1>
 
-#### This repository contains all of the resources, guidelines, tools that I use in my daily life and in my career. Sometimes, I like things and add them here. I believe that this repository reflects my career path because it shows what I have learned and how I improved. Thus, someday when I publish this, it can be a good resource for newbies who want to improve in this field. But the repository is private until that day.
+#### This repository contains all of the resources, guidelines, tools that I use in my daily life and in my career. Sometimes, I like things and add them here. I believe that this repository reflects my learning path because it shows what I have learned and how I improved. Thus, it can be a good resource for newbies(like me) who want to improve in this field. Have fun.
 
 ---
 
