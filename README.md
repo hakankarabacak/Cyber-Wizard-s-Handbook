@@ -98,6 +98,11 @@ Courses and Guides
 
 - [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [Red Team Guide](https://redteam.guide/)
+- [OFFENSIVE SECURITY & REVERSE ENGINEERING & OFFENSIVE SOFTWARE EXPLOITATION](https://exploitation.ashemery.com/)
+- [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+- [XSS: Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization](https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/)
+
+###### Courses
 - [[COURSE] University of Maryland Cryptography](https://www.coursera.org/learn/cryptography/home/week/1)
     - [CBC-MAC](https://en.wikipedia.org/wiki/CBC-MAC)
     - [HMAC](https://en.wikipedia.org/wiki/HMAC)
@@ -109,10 +114,6 @@ Courses and Guides
     - [RSA Signatures](https://cryptobook.nakov.com/digital-signatures/rsa-signatures)
     - [Identification schemes](https://cryptographyacademy.com/identification-schemes/)
     - [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure)
-- [OFFENSIVE SECURITY & REVERSE ENGINEERING & OFFENSIVE SOFTWARE EXPLOITATION](https://exploitation.ashemery.com/)
-- [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
-- [XSS: Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization](https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/)
-
 
 
 
