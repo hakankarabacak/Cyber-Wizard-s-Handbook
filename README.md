@@ -98,7 +98,7 @@ Courses and Guides
 
 - [Password Storage (OWASP)](https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html)
 - [Red Team Guide](https://redteam.guide/)
-- [University of Maryland Cryptography Course](https://www.coursera.org/learn/cryptography/home/week/1)
+- [[COURSE] University of Maryland Cryptography](https://www.coursera.org/learn/cryptography/home/week/1)
 - [OFFENSIVE SECURITY & REVERSE ENGINEERING & OFFENSIVE SOFTWARE EXPLOITATION](https://exploitation.ashemery.com/)
 - [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [XSS: Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization](https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/)
