@@ -134,10 +134,7 @@ Polygon
 Reminder
 --------
 
-- [CBC-MAC](https://en.wikipedia.org/wiki/CBC-MAC)
-- [HMAC](https://en.wikipedia.org/wiki/HMAC)
-- [Authenticated Encryption](https://en.wikipedia.org/wiki/Authenticated_encryption#:~:text=Authenticated%20Encryption%20(AE)%20are%20forms,confidentiality%20and%20authenticity%20of%20data.)
-- [Diffie-Hellman key exchange](https://en.wikipedia.org/wiki/Diffie%E2%80%93Hellman_key_exchange)
+
 - [Discrete-Log-Based Public-Key Encryption](https://www.di-mgt.com.au/public-key-crypto-discrete-logs-0.html)
 - [RSA-Based Public-Key Encryption](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 - [Digital Signatures](https://www.docusign.com/how-it-works/electronic-signature/digital-signature/digital-signature-faq)
