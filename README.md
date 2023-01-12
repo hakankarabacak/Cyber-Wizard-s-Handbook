@@ -101,6 +101,7 @@ Courses and Guides
 - [OFFENSIVE SECURITY & REVERSE ENGINEERING & OFFENSIVE SOFTWARE EXPLOITATION](https://exploitation.ashemery.com/)
 - [Bug Bounty cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [XSS: Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization](https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/)
+- [[BOOK] Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 
 ###### Courses
 - [[COURSE] University of Maryland Cryptography](https://www.coursera.org/learn/cryptography/home/week/1)
