@@ -113,7 +113,6 @@ Courses and Guides
     - [RSA-Based Public-Key Encryption](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
     - [Digital Signatures](https://www.docusign.com/how-it-works/electronic-signature/digital-signature/digital-signature-faq)
     - [RSA Signatures](https://cryptobook.nakov.com/digital-signatures/rsa-signatures)
-    - [Identification schemes](https://cryptographyacademy.com/identification-schemes/)
     - [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 
 
@@ -135,10 +134,3 @@ Polygon
 Reminder
 --------
 
-
-- [Discrete-Log-Based Public-Key Encryption](https://www.di-mgt.com.au/public-key-crypto-discrete-logs-0.html)
-- [RSA-Based Public-Key Encryption](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
-- [Digital Signatures](https://www.docusign.com/how-it-works/electronic-signature/digital-signature/digital-signature-faq)
-- [RSA Signatures](https://cryptobook.nakov.com/digital-signatures/rsa-signatures)
-- [Identification schemes](https://cryptographyacademy.com/identification-schemes/)
-- [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure)
