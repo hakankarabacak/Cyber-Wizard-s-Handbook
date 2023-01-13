@@ -129,7 +129,6 @@ Polygon
 - [PortSwigger Labs](https://portswigger.net/web-security/all-labs) - Featuring over 190 topics and interactive labs that cover even the latest vulnerabilities.
 - [TryHackMe](https://tryhackme.com/) - TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
 - [Hack The Box](https://www.hackthebox.com/) - TryHackMe alternative.
-- [Attack-Defense](https://attackdefense.com/) - 1800+ Labs!
 - [alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0)
 - [Cryptohack](https://cryptohack.org/) - A fun, free platform for learning modern cryptography
 - [Command Challenge](https://cmdchallenge.com/)
