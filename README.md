@@ -103,6 +103,9 @@ Courses and Guides
 - [XSS: Arithmetic Operators & Optional Chaining To Bypass Filters & Sanitization](https://www.secjuice.com/xss-arithmetic-operators-chaining-bypass-sanitization/)
 - [[BOOK] Practical Cryptography for Developers](https://cryptobook.nakov.com/)
 - [Publications of International Association for Cryptologic Research](https://iacr.org/publications/)
+- [What is DNS the hard way (TR)](https://drive.google.com/file/d/1h1ae1zf2JSlSUoo76Rp1LPwygbodKObJ/view)
+- [Hacksplaining](https://www.hacksplaining.com/lessons)
+
 
 ###### Courses
 - [[COURSE] University of Maryland Cryptography](https://www.coursera.org/learn/cryptography/home/week/1)
@@ -126,6 +129,15 @@ Polygon
 - [PortSwigger Labs](https://portswigger.net/web-security/all-labs) - Featuring over 190 topics and interactive labs that cover even the latest vulnerabilities.
 - [TryHackMe](https://tryhackme.com/) - TryHackMe is an online platform that teaches cyber security through short, gamified real-world labs.
 - [Hack The Box](https://www.hackthebox.com/) - TryHackMe alternative.
+- [Attack-Defense](https://attackdefense.com/) - 1800+ Labs!
+- [alert(1) to win](https://alf.nu/alert1?world=alert&level=alert0)
+- [Cryptohack](https://cryptohack.org/) - A fun, free platform for learning modern cryptography
+- [Command Challenge](https://cmdchallenge.com/)
+- [CyberDefenders](https://cyberdefenders.org/blueteam-ctf-challenges/) - BlueTeam Challenges
+- [Google CTF](https://capturetheflag.withgoogle.com/)
+- [OverTheWire](https://overthewire.org/wargames/) - Learn and practice security concepts in the form of fun-filled games.
+
+
 
 
 
