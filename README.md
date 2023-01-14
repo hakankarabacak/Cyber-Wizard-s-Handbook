@@ -105,6 +105,7 @@ Courses and Guides
 - [Publications of International Association for Cryptologic Research](https://iacr.org/publications/)
 - [What is DNS the hard way (TR)](https://drive.google.com/file/d/1h1ae1zf2JSlSUoo76Rp1LPwygbodKObJ/view)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
+- [Here are 10 interesting ChatGPT use cases](https://www.linkedin.com/posts/generative-artificial-intelligence_innovation-technology-artificialintelligence-activity-7019606828040781824-nOcN?utm_source=share&utm_medium=member_desktop)
 
 
 ###### Courses
