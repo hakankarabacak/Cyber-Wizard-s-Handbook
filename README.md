@@ -31,7 +31,7 @@
 ---
 
 Tools
------
+=====
 
 ### Recon
 ##### Subdomain Enumeration
@@ -146,14 +146,22 @@ Tools
 - [qsfuzz](https://github.com/ameenmaali/qsfuzz) - qsfuzz (Query String Fuzz) allows you to build your own rules to fuzz query strings and easily identify vulnerabilities.
 - [vaf](https://github.com/d4rckh/vaf) - very advanced (web) fuzzer written in Nim.
 
+---
+
 ### Authentication Bypass
 - [Evilginx2](https://m0chan.github.io/2019/07/26/Bypassing-2FA-For-Fun-With-Evilginx2.html) - MITM attack framework used for phishing login credentials along with session cookies, which in turn allows to bypass 2-factor authentication protection.
+
+---
 
 ### Phishing
 - [MaxPhisher](https://github.com/KasRoudra/MaxPhisher) - A python phishing script for login phishing, image phishing, video phishing and many more.
 
+---
+
 ### XSS
 - [XSStrike](https://github.com/s0md3v/XSStrike) - XSStrike is a Cross Site Scripting detection suite
+
+---
 
 ### Twitter Tools
 - [tinfoleak](https://tinfoleak.com/#page-top)
@@ -161,10 +169,14 @@ Tools
 - [treeverse](https://treeverse.app/)
 - [#onemilliontweetmap](https://onemilliontweetmap.com/?center=41.08530320586984,28.85044097900391&zoom=11&search=beykent&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)
 
+---
+
 ### Generators
 - [passgen](https://github.com/hakankarabacak/passgen) - Simply password generator for social medias, written by me.
 - [hashgen](https://github.com/hakankarabacak/hashgen) - Simply hash generator for encrypting data written by me.
 - [QR Encoding/Decoding](https://github.com/hakankarabacak/QR)
+
+---
 
 ### Web-based
 - [IntelTechniques](https://inteltechniques.com/index.html)
@@ -177,18 +189,15 @@ Tools
 - [Watermark Remover](https://www.watermarkremover.io/)
 - [GTFOBins](https://gtfobins.github.io/)
 
+---
+
 ### OSINT
 - [Shodan](https://www.shodan.io/) - Shodan is search engine for Internet-connected devices.
 - [Maltego](https://www.maltego.com/) - Quickly pull data from profiles, posts, and comments into one graph, where we can conduct text searches and see connections.
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python.
 - [Wayback Machine](https://archive.org/web) - The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites.
 
-
-
-
-
-
-
+---
 
 Tweets
 ------
@@ -208,8 +217,7 @@ Tweets
 - [Jenkins](https://twitter.com/BhatAasim9/status/1614486810331328515)
 - [Hacking admin panels](https://twitter.com/sachin_pandey98/status/1614915640799952898)
 
-
-
+---
 
 Courses and Guides
 ------------------
@@ -238,8 +246,7 @@ Courses and Guides
     - [RSA Signatures](https://cryptobook.nakov.com/digital-signatures/rsa-signatures)
     - [PKI](https://en.wikipedia.org/wiki/Public_key_infrastructure)
 
-
-
+---
 
 Polygon
 -------
@@ -255,12 +262,7 @@ Polygon
 - [Google CTF](https://capturetheflag.withgoogle.com/)
 - [OverTheWire](https://overthewire.org/wargames/) - Learn and practice security concepts in the form of fun-filled games.
 
-
-
-
-
-
-
+---
 
 Reminder
 --------
