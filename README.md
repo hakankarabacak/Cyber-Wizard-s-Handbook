@@ -14,6 +14,7 @@
     - [Generators](#Generators)
     - [Web-based](#Web-based)
     - [OSINT](#OSINT)
+        - [heyo](google.com)
 
 - [Tweets](#Tweets)
 - [Courses and Guides](#Courses-and-Guides)
@@ -46,7 +47,7 @@ Tools
 - [#onemilliontweetmap](https://onemilliontweetmap.com/?center=41.08530320586984,28.85044097900391&zoom=11&search=beykent&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)
 
 ###### Generators
-- [passgen](https://github.com/hakankarabacak/passgen) - Simply password generator for social medias or related things written by me.
+- [passgen](https://github.com/hakankarabacak/passgen) - Simply password generator for social medias, written by me.
 - [hashgen](https://github.com/hakankarabacak/hashgen) - Simply hash generator for encrypting data written by me.
 - [QR Encoding/Decoding](https://github.com/hakankarabacak/QR)
 
@@ -77,7 +78,7 @@ Tools
 Tweets
 ------
 
-- [VirusTotal possible virus flag bypass](https://twitter.com/Alh4zr3d/status/1610291517792321536)
+- [VirusTotal virus flag bypass](https://twitter.com/Alh4zr3d/status/1610291517792321536)
 - [Cyber Security Certifications](https://twitter.com/LetsDefendIO/status/1511728038865772544)
 - [Easy way to get good vulns with shodan search](https://twitter.com/atomiczsec/status/1560104164641935360)
 - [This OSINT page full of resources](https://twitter.com/startme/status/1563225274673942532)
@@ -89,6 +90,8 @@ Tweets
 - [How to learn reverse engineering fast](https://twitter.com/CristiVlad25/status/1612467610003685377)
 - [Having trouble finding new bugs for your program?](https://twitter.com/therceman/status/1612698610730438659)
 - [How about some AI straight into your terminal?](https://twitter.com/CristiVlad25/status/1612430853962866688)
+- [Jenkins](https://twitter.com/BhatAasim9/status/1614486810331328515)
+- [Hacking admin panels](https://twitter.com/sachin_pandey98/status/1614915640799952898)
 
 
 
