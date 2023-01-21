@@ -233,6 +233,7 @@ Courses and Guides
 - [What is DNS the hard way (TR)](https://drive.google.com/file/d/1h1ae1zf2JSlSUoo76Rp1LPwygbodKObJ/view)
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [Here are 10 interesting ChatGPT use cases](https://www.linkedin.com/posts/generative-artificial-intelligence_innovation-technology-artificialintelligence-activity-7019606828040781824-nOcN?utm_source=share&utm_medium=member_desktop)
+- [How to Bypass ChatGPT Sorry msg](https://www.linkedin.com/feed/update/urn:li:activity:7022583580237180928/)
 
 
 ###### Courses
