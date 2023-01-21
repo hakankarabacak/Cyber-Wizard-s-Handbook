@@ -216,6 +216,7 @@ Tweets
 - [How about some AI straight into your terminal?](https://twitter.com/CristiVlad25/status/1612430853962866688)
 - [Jenkins](https://twitter.com/BhatAasim9/status/1614486810331328515)
 - [Hacking admin panels](https://twitter.com/sachin_pandey98/status/1614915640799952898)
+- [Easy information disclosure P4](https://twitter.com/ADITYASHENDE17/status/1616715101188558854)
 
 ---
 
