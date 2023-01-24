@@ -20,7 +20,7 @@
     - [XSS](#XSS)
     - [Twitter Tools](#Twitter-Tools)
     - [Generators](#Generators)
-    - [Web-based](#Web-based)
+    - [Usefull Things](#Usefull-Things)
     - [OSINT](#OSINT)
 
 - [Tweets](#Tweets)
@@ -164,14 +164,6 @@ Tools
 
 ---
 
-### Twitter Tools
-- [tinfoleak](https://tinfoleak.com/#page-top)
-- [twdown](https://twdown.net/)
-- [treeverse](https://treeverse.app/)
-- [#onemilliontweetmap](https://onemilliontweetmap.com/?center=41.08530320586984,28.85044097900391&zoom=11&search=beykent&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)
-
----
-
 ### Generators
 - [passgen](https://github.com/hakankarabacak/passgen) - Simply password generator for social medias, written by me.
 - [hashgen](https://github.com/hakankarabacak/hashgen) - Simply hash generator for encrypting data written by me.
@@ -179,8 +171,7 @@ Tools
 
 ---
 
-### Web-based
-- [IntelTechniques](https://inteltechniques.com/index.html)
+### Usefull Things
 - [Corrupt file](https://corrupt-a-file.net/)
 - [ToS Didn't Read](https://tosdr.org/)
 - [haveibeenpwned](https://haveibeenpwned.com/)
@@ -188,15 +179,19 @@ Tools
 - [termbin](https://termbin.com/)
 - [Undesign](https://undesign.learn.uno/remove-background/)
 - [Watermark Remover](https://www.watermarkremover.io/)
-- [GTFOBins](https://gtfobins.github.io/)
 
 ---
 
 ### OSINT
+- [IntelTechniques](https://inteltechniques.com/index.html)
 - [Shodan](https://www.shodan.io/) - Shodan is search engine for Internet-connected devices.
 - [Maltego](https://www.maltego.com/) - Quickly pull data from profiles, posts, and comments into one graph, where we can conduct text searches and see connections.
 - [Recon-ng](https://github.com/lanmaster53/recon-ng) - Recon-ng is a full-featured Web Reconnaissance framework written in Python.
 - [Wayback Machine](https://archive.org/web) - The Internet Archive Wayback Machine is a service that allows people to visit archived versions of Web sites.
+- [tinfoleak](https://tinfoleak.com/#page-top)
+- [twdown](https://twdown.net/)
+- [treeverse](https://treeverse.app/)
+- [#onemilliontweetmap](https://onemilliontweetmap.com/?center=41.08530320586984,28.85044097900391&zoom=11&search=beykent&timeStep=0&timeSelector=0&hashtag1=&hashtag2=sad&sidebar=yes&hashtagBattle=0&timeRange=0&timeRange=25&heatmap=0&sun=0&cluster=1)
 
 ---
 
