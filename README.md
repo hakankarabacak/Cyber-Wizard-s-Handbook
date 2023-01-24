@@ -36,6 +36,7 @@ Tools
 ### Recon
 ##### Subdomain Enumeration
 
+- [AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
 - [Sublist3r](https://github.com/aboul3la/Sublist3r) - Fast subdomains enumeration tool for penetration testers
 - [Amass](https://github.com/OWASP/Amass) - In-depth Attack Surface Mapping and Asset Discovery
 - [massdns](https://github.com/blechschmidt/massdns) - A high-performance DNS stub resolver for bulk lookups and reconnaissance (subdomain enumeration)
@@ -269,8 +270,7 @@ Polygon
 
 Reminder
 --------
-- [AutoRecon](https://github.com/Tib3rius/AutoRecon) - AutoRecon is a multi-threaded network reconnaissance tool which performs automated enumeration of services.
-- [Burp Suite](https://portswigger.net/burp) - Burp Suite is an integrated platform and graphical tool for performing security testing of web applications.
-- [Subfinder](https://github.com/projectdiscovery/subfinder) - subfinder is a subdomain discovery tool that returns valid subdomains for websites.
+
+SPACEHOLDER
 
 ---
