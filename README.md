@@ -231,6 +231,9 @@ Courses and Guides
 - [Hacksplaining](https://www.hacksplaining.com/lessons)
 - [Here are 10 interesting ChatGPT use cases](https://www.linkedin.com/posts/generative-artificial-intelligence_innovation-technology-artificialintelligence-activity-7019606828040781824-nOcN?utm_source=share&utm_medium=member_desktop)
 - [How to Bypass ChatGPT Sorry msg](https://www.linkedin.com/feed/update/urn:li:activity:7022583580237180928/)
+- [PortSwigger XSS Template](https://portswigger.net/web-security/cross-site-scripting/cheat-sheet)
+- [How Pros Use CVEs to Find New Bugs](https://www.youtube.com/watch?v=Nhvm06Cwlqo)
+- [Steganography](https://www.youtube.com/watch?v=yq9zo6IzP64)
 
 
 ###### Courses
