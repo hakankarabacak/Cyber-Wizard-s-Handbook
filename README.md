@@ -20,7 +20,7 @@
     - [XSS](#XSS)
     - [Twitter Tools](#Twitter-Tools)
     - [Generators](#Generators)
-    - [Usefull Things](#Usefull-Things)
+    - [Useful Things](#Useful-Things)
     - [OSINT](#OSINT)
 
 - [Tweets](#Tweets)
@@ -171,7 +171,7 @@ Tools
 
 ---
 
-### Usefull Things
+### Useful Things
 - [Corrupt file](https://corrupt-a-file.net/)
 - [ToS Didn't Read](https://tosdr.org/)
 - [haveibeenpwned](https://haveibeenpwned.com/)
