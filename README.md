@@ -214,6 +214,7 @@ Tweets
 - [Hacking admin panels](https://twitter.com/sachin_pandey98/status/1614915640799952898)
 - [Easy information disclosure P4](https://twitter.com/ADITYASHENDE17/status/1616715101188558854)
 - [Tips to stay safe while working with malware samples](https://twitter.com/struppigel/status/1617384467731185665)
+- [Bug bounties in 2023 - extended roadmap](https://twitter.com/theXSSrat/status/1639623665904934912)
 
 ---
 
